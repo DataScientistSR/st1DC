@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4872303c-3f24-42cf-82fc-c1a5e130c054/resourceGroups/msdocs-python-webapp-quickstart/providers/Microsoft.Web/sites/msdocs-python-webapp-quickstart-SRT",
+    "appService.deploySubpath": ".github\\workflows"
+}
